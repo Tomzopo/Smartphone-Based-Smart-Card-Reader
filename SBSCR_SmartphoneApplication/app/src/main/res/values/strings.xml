@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pay Now</string>
+    <string name="edit_paymentamount">Enter the cost</string>
+    <string name="button_requestpayment">Request Payment</string>
+    <string name="button_settings">Settings</string>
+    <string name="button_payments">Request Payments</string>
+    <string name="button_history">Payment History</string>
+    <string name="button_cancel">Cancel Transaction!</string>
+</resources>
