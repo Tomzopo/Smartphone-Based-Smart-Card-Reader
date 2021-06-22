@@ -1,4 +1,4 @@
-# Smartphone-Based-Smart-Card-Reader
+# Smartphone Based Smart Card Reader
 
 This was my final year computer engineering project.
 
